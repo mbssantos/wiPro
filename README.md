@@ -1,21 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 # Viewing
 
 The app is available in 2 places:
 
 ##github pages
-https://mbssantos.github.io/wiPro/
+https://mbssantos.github.io/wiPro/  
 They force SSL and unfortunately openweathermap *doesn't* support it.
 Because of this you'll see an empty page.
 To get content you'll need to 'enable unsafe content'.
 
 ## My VPS
-I thought the above was a hassle so I've uploaded it to my VPS.
-You can see the app running smoothly here: http://139.59.161.205/
+http://139.59.161.205/  
+I thought the above was a hassle so I've uploaded it to my VPS.  
+You can see the app running smoothly there  
 (I don't have a domain name for it yet!)
 
 ## installing
