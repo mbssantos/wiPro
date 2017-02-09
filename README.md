@@ -8,6 +8,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 The app is available in 2 places:
 
 ##github pages
+https://mbssantos.github.io/wiPro/
 They force SSL and unfortunately openweathermap *doesn't* support it.
 Because of this you'll see an empty page.
 To get content you'll need to 'enable unsafe content'.
